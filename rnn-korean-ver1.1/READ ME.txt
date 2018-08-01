@@ -1,0 +1,33 @@
+##################################################
+##################################################
+###               rnn-korean-1.1               ###
+##################################################
+##################################################
+Date : 2018/08/01
+Describe : first version for Korean Writing RNN
+copyright : corona
+
+Debuging
+-model.py
+	-115행: logits 수정
+	-sequence_loss function에 weight 추가.
+ 
+
+##################################################
+##################################################
+###               rnn-korean-1.0               ###
+##################################################
+##################################################
+Date : 2018/07/31
+Describe : first version for Korean Writing RNN
+copyright : corona
+
+Detail
+-one hot classification
+-tensorflow seqence_loss을 loss function으로 사용.
+-RNN 구조는 two independent LSTM
+-example1은 이광수의<무정> 작품을 input data로 학습시킨 결과.
+: 조사는 학습이 되지만, word 결과가 조사 결과와 연결이 되지 않음.
+이광수 <무정> 출처 : ???
+
+ref. 
