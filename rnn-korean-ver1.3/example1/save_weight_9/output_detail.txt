@@ -1,0 +1,503 @@
+1 of output - 나 : N
+2 of output -   : P
+3 of output - 그렇 : N
+4 of output - 는 : E
+5 of output -   : P
+6 of output - 혹은 : N
+7 of output - 은 : P
+8 of output - 길 : N
+9 of output - 을 : J
+10 of output -   : P
+11 of output - 어머니 : V
+12 of output - 고 : E
+13 of output - , : P
+14 of output -   : V
+15 of output - ㄹ : E
+16 of output - 마 : N
+17 of output - 만 : J
+18 of output -   : P
+19 of output - 되 : V
+20 of output - 라는 : E
+21 of output -   : P
+22 of output - 때 : N
+23 of output - 의 : J
+24 of output -   : P
+25 of output - 악한 : N
+26 of output -   : J
+27 of output - 같이 : V
+28 of output - 어 : P
+29 of output - ㄴ : V
+30 of output - 고 : P
+31 of output - 그러 : S
+32 of output - 므로 : E
+33 of output -   : P
+34 of output - 점잖 : M
+35 of output - 이 : N
+36 of output - 조고 : N
+37 of output - 뜻 : N
+38 of output - 이 : J
+39 of output -   : P
+40 of output - 즐겁 : N
+41 of output - 나 : X
+42 of output -   : P
+43 of output - 빠지 : M
+44 of output -   : V
+45 of output - ㄹ : E
+46 of output - 가 : P
+47 of output - 하 : V
+48 of output - ㄹ : E
+49 of output -   : P
+50 of output - 뿐 : N
+51 of output - 을 : S
+52 of output -   : P
+53 of output - 사찰 : V
+54 of output - ㄴ다 : E
+55 of output - . : S
+56 of output -   : P
+57 of output - 생명 : M
+58 of output - 영채 : V
+59 of output - 는 : E
+60 of output -   : P
+61 of output - 조선 : N
+62 of output - 같이 : V
+63 of output -   : P
+64 of output - 아 : E
+65 of output - 그러 : V
+66 of output - 어서 : E
+67 of output -   : P
+68 of output - 형식 : N
+69 of output - 의 : J
+70 of output -   : P
+71 of output - 이 : N
+72 of output - 에게 : P
+73 of output - 가 : J
+74 of output - 을 : P
+75 of output -   : P
+76 of output - 자르 : V
+77 of output - 는 : E
+78 of output -   : P
+79 of output - 것 : N
+80 of output - 은 : J
+81 of output -   : P
+82 of output - 영채 : N
+83 of output -   : J
+84 of output - 애 : V
+85 of output - 는 : E
+86 of output -   : P
+87 of output - 목소리 : N
+88 of output - 만 : J
+89 of output -   : P
+90 of output - 청구 : V
+91 of output - 여 : E
+92 of output - 알 : V
+93 of output - ㄴ : E
+94 of output -   : P
+95 of output - 풍류 : N
+96 of output - , : P
+97 of output - 
+ : L
+98 of output - 쿵쿵 : N
+99 of output - ( : X
+100 of output - 消化 : O
+101 of output - ) : S
+102 of output - ! : N
+103 of output - ? : S
+104 of output - ” : P
+105 of output - 자기 : N
+106 of output - 나 : J
+107 of output -   : P
+108 of output - 분풀이 : V
+109 of output - ㄴ : E
+110 of output -   : S
+111 of output - 마 : V
+112 of output - ㄴ : E
+113 of output -   : P
+114 of output - 사람 : N
+115 of output - 라 : J
+116 of output - ’ : P
+117 of output - 하 : V
+118 of output - 고 : E
+119 of output -   : P
+120 of output - 두 : V
+121 of output - ㄴ : E
+122 of output - 점 : S
+123 of output - 증 : N
+124 of output -   : N
+125 of output - 모양 : X
+126 of output - 은 : J
+127 of output -   : P
+128 of output - 갑자기 : N
+129 of output -   : P
+130 of output - 없 : N
+131 of output -   : P
+132 of output - 독서 : V
+133 of output - 았 : E
+134 of output - 다 : E
+135 of output - . : S
+136 of output -   : L
+137 of output - 대개 : V
+138 of output -   : E
+139 of output - 죽 : N
+140 of output - 하 : P
+141 of output - 소 : E
+142 of output - 오 : J
+143 of output -   : P
+144 of output - 그렇 : N
+145 of output - 은 : X
+146 of output -   : P
+147 of output - 것 : N
+148 of output - 이 : J
+149 of output -   : P
+150 of output - 아니 : V
+151 of output - 더 : E
+152 of output - 지 : E
+153 of output -   : P
+154 of output - 하 : V
+155 of output - 지요 : E
+156 of output - . : S
+157 of output - ” : S
+158 of output - 
+ : L
+159 of output - 이렇게 : S
+160 of output -   : P
+161 of output - 관계 : N
+162 of output - 하 : X
+163 of output - ㄹ : E
+164 of output -   : P
+165 of output - 다 : N
+166 of output - 은 : J
+167 of output -   : P
+168 of output - 보 : V
+169 of output - 아 : E
+170 of output -   : P
+171 of output - 어렵 : N
+172 of output - 앉 : P
+173 of output - 찾 : E
+174 of output - 었 : E
+175 of output - 다 : E
+176 of output - . : S
+177 of output -   : P
+178 of output - 아무리 : N
+179 of output -   : P
+180 of output - 살 : N
+181 of output - 이 : J
+182 of output -   : P
+183 of output - 한 : N
+184 of output -   : P
+185 of output - 모퉁이 : N
+186 of output -   : J
+187 of output - 그네 : M
+188 of output -   : J
+189 of output - 밖에 : J
+190 of output -   : P
+191 of output - ㄴ : V
+192 of output - 구려 : P
+193 of output - 산서 : V
+194 of output - 는 : E
+195 of output -   : P
+196 of output - 사람 : N
+197 of output - 의 : X
+198 of output -   : P
+199 of output - 소리 : N
+200 of output - 가 : J
+201 of output -   : P
+202 of output - 있 : V
+203 of output - 어 : E
+204 of output -   : P
+205 of output - 그러 : V
+206 of output - 으면 : E
+207 of output - 덜 : P
+208 of output - 구별 : N
+209 of output - 하 : X
+210 of output - ㄴ : E
+211 of output -   : P
+212 of output - 불쌍히 : N
+213 of output - 을 : J
+214 of output -   : P
+215 of output - 아무 : V
+216 of output - 여 : E
+217 of output -   : P
+218 of output - 하 : V
+219 of output - 은 : E
+220 of output -   : P
+221 of output - 대동강 : N
+222 of output - 에 : J
+223 of output -   : J
+224 of output - 치 : N
+225 of output - , : J
+226 of output -   : P
+227 of output - 집 : M
+228 of output -   : P
+229 of output - 그때 : N
+230 of output - 에게 : X
+231 of output -   : P
+232 of output - 같이 : N
+233 of output -   : P
+234 of output - 울 : N
+235 of output -   : P
+236 of output - 알아듣 : N
+237 of output - 을 : X
+238 of output -   : P
+239 of output - 생각 : V
+240 of output - ㄹ : E
+241 of output -   : P
+242 of output - 버리 : N
+243 of output - 이 : X
+244 of output - 기 : P
+245 of output - 이 : N
+246 of output - 에게 : P
+247 of output - 이 : V
+248 of output - 라 : E
+249 of output - . : P
+250 of output - 형식 : V
+251 of output -   : P
+252 of output - 가엾 : V
+253 of output - 다가 : E
+254 of output - , : P
+255 of output - ㄴ고 : L
+256 of output - “ : S
+257 of output - 언니 : N
+258 of output - . : S
+259 of output -   : P
+260 of output - 넉넉히 : M
+261 of output -   : P
+262 of output - 한 : V
+263 of output - 니 : P
+264 of output - 다 : E
+265 of output - . : S
+266 of output -   : L
+267 of output - 어떤 : N
+268 of output - 는 : P
+269 of output - 다 : N
+270 of output - . : S
+271 of output -   : P
+272 of output - 그러 : N
+273 of output - 내 : N
+274 of output -   : P
+275 of output - 길 : N
+276 of output - 이 : P
+277 of output - 앙모 : N
+278 of output - 을 : N
+279 of output -   : P
+280 of output - 형식 : V
+281 of output - 은 : P
+282 of output - 다 : S
+283 of output - ’ : S
+284 of output -   : P
+285 of output - 하 : V
+286 of output - 였 : E
+287 of output - 단 : E
+288 of output -   : P
+289 of output - 듯하 : N
+290 of output - 이 : J
+291 of output -   : P
+292 of output - 나오 : V
+293 of output - ㄴ : E
+294 of output -   : P
+295 of output - 생각 : N
+296 of output - 에게 : J
+297 of output - 는 : P
+298 of output - 무섭 : N
+299 of output - 을 : P
+300 of output - 만이 : P
+301 of output - 지키 : V
+302 of output - 은 : E
+303 of output -   : P
+304 of output - 일 : N
+305 of output -   : N
+306 of output - 이 : V
+307 of output - ㄴ : E
+308 of output -   : P
+309 of output - 어머님 : N
+310 of output - 이 : J
+311 of output -   : P
+312 of output - 월화 : M
+313 of output - 에 : P
+314 of output - 지우 : N
+315 of output - 도 : S
+316 of output -   : P
+317 of output - 형식 : N
+318 of output - 은 : J
+319 of output -   : P
+320 of output - 사랑 : N
+321 of output - 을 : X
+322 of output -   : P
+323 of output - 잘 : N
+324 of output - 는 : P
+325 of output - 붙이 : V
+326 of output - 며 : E
+327 of output -   : S
+328 of output - 선형 : N
+329 of output - 이 : J
+330 of output - 어 : V
+331 of output - 로구나 : E
+332 of output -   : S
+333 of output - 』 : V
+334 of output - 아 : E
+335 of output -   : P
+336 of output - 여기 : V
+337 of output - 고 : E
+338 of output - , : P
+339 of output - -- : L
+340 of output - - : S
+341 of output - 자 : V
+342 of output - ㅂ시오 : E
+343 of output - ? : S
+344 of output -   : S
+345 of output - 오늘 : V
+346 of output -   : P
+347 of output - 아 : E
+348 of output - 오 : P
+349 of output - 이제 : N
+350 of output - 로 : J
+351 of output -   : P
+352 of output - 공명 : V
+353 of output - 고 : E
+354 of output - , : P
+355 of output - -- : P
+356 of output - 욱 : X
+357 of output - 을 : J
+358 of output -   : P
+359 of output - 살 : V
+360 of output - 도록 : E
+361 of output -   : P
+362 of output - 눕 : V
+363 of output - 았 : E
+364 of output - 으니깐 : E
+365 of output - . : P
+366 of output - 두려워하 : S
+367 of output - 그러나 : N
+368 of output - 로 : P
+369 of output - 손 : N
+370 of output - 를 : P
+371 of output -   : P
+372 of output - 감아쥐 : N
+373 of output - 가 : P
+374 of output - 뜨 : V
+375 of output - 었 : E
+376 of output - 구나 : E
+377 of output - . : S
+378 of output -   : S
+379 of output - 오늘 : N
+380 of output -   : P
+381 of output - 계 : N
+382 of output - 뿐 : N
+383 of output - 에 : J
+384 of output -   : P
+385 of output - 앞 : N
+386 of output - 나 : J
+387 of output -   : P
+388 of output - 있 : V
+389 of output - 았 : E
+390 of output - 다 : E
+391 of output - . : S
+392 of output -   : P
+393 of output - 그러 : N
+394 of output - 나 : N
+395 of output - 는 : J
+396 of output -   : P
+397 of output - 말하 : V
+398 of output - 었 : E
+399 of output - 다 : E
+400 of output - . : S
+401 of output -   : P
+402 of output - 남쪽 : S
+403 of output -   : P
+404 of output - 보 : V
+405 of output - ㄴ : E
+406 of output -   : P
+407 of output - 두 : N
+408 of output -   : P
+409 of output - 자손 : N
+410 of output - 의 : J
+411 of output -   : P
+412 of output - 곧 : N
+413 of output -   : P
+414 of output - 졸업 : V
+415 of output - 았 : E
+416 of output - ㄴ : E
+417 of output -   : P
+418 of output - 생각 : N
+419 of output - 은 : X
+420 of output -   : P
+421 of output - 누이 : M
+422 of output -   : S
+423 of output - 영혼 : V
+424 of output - 면 : E
+425 of output -   : P
+426 of output - ‘ : N
+427 of output - 그 : M
+428 of output -   : P
+429 of output - 어멈 : N
+430 of output - 에 : J
+431 of output -   : P
+432 of output - 넉넉히 : M
+433 of output -   : M
+434 of output - 구하 : V
+435 of output - 는 : E
+436 of output -   : P
+437 of output - 자가 : N
+438 of output -   : P
+439 of output - 내려오 : M
+440 of output -   : P
+441 of output - 반나마 : N
+442 of output - 는 : V
+443 of output - 었 : E
+444 of output - 어요 : E
+445 of output - . : S
+446 of output -   : P
+447 of output - 박 : M
+448 of output - 등 : M
+449 of output -   : P
+450 of output - 형식 : N
+451 of output - 되 : J
+452 of output - , : P
+453 of output -   : P
+454 of output - 恨 : N
+455 of output - 하 : X
+456 of output - 갈고 : E
+457 of output -   : P
+458 of output - 그러하 : N
+459 of output - 은 : J
+460 of output -   : P
+461 of output - 손수건 : N
+462 of output - 이요 : J
+463 of output -   : P
+464 of output - 지금 : M
+465 of output -   : P
+466 of output - 베개 : N
+467 of output - 과 : J
+468 of output -   : P
+469 of output - 욕하 : N
+470 of output -   : J
+471 of output - 같이 : V
+472 of output -   : E
+473 of output - 하 : V
+474 of output - 었 : E
+475 of output -   : E
+476 of output - 하 : V
+477 of output - ㄴ다 : E
+478 of output - . : S
+479 of output -   : P
+480 of output - 그제야 : V
+481 of output - 더니 : E
+482 of output -   : P
+483 of output - 때문 : M
+484 of output -   : N
+485 of output - 이 : V
+486 of output - 나 : E
+487 of output - …… : P
+488 of output - . : S
+489 of output -   : P
+490 of output - 여학생 : N
+491 of output - 을 : J
+492 of output -   : P
+493 of output - 영채 : V
+494 of output - 여도 : E
+495 of output -   : P
+496 of output - 모르 : N
+497 of output -   : E
+498 of output - 보 : V
+499 of output - ㄴ : E
+500 of output -   : P
+501 of output - 것 : N
